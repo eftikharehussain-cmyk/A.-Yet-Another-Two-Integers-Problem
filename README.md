@@ -1,1 +1,0 @@
-# A.-Yet-Another-Two-Integers-Problem
